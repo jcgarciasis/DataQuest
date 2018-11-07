@@ -1,2 +1,2 @@
-# DataQuest-
+# DataQuest
 Data Scientist Path
